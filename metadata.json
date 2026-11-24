@@ -1,0 +1,6 @@
+{
+  "name": "NAYOpro - L'expertise sans frontières",
+  "description": "Plateforme mobile-first de mise en relation experts, matériaux de construction, entreprises et offres d'emploi & stages à Kinshasa, RDC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
